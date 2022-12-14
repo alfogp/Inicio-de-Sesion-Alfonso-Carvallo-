@@ -9,10 +9,10 @@ function loguear() {
     {
 
 
-        location.href = "index.html"
+        location.href = "https://agp-geepetta-24e7f2.netlify.app/"
 
     } else {
-        alert("Los datos que ha ingresado no son los indicados, por favor intente de nuevo");
+        alert("Los datos que ha ingresado no son los indicados, por favor intente nuevamente");
     }
 
 
